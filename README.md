@@ -94,8 +94,6 @@
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Chrome" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/chrome.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/chrome.png 'Chrome')Chrome
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Edge" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/edge.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/edge.png 'Edge')Edge
-
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Firefox" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firefox.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firefox.png 'Firefox')Firefox
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Opera" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/opera.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/opera.png 'Opera')Opera

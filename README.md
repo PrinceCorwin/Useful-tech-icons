@@ -17,7 +17,7 @@
 - [<img align="left" style="margin-right:10px" target="_blank" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](https://www.php.net/ 'php')php
 - [<img align="left" style="margin-right:10px" target="_blank" alt="SQL" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mysql-logo.png?raw=true" />](https://dev.mysql.com/doc/ 'mySQL')mySQL
 - [<img align="left" style="margin-right:10px" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo-minimal.png?raw=true" />](https://git-scm.com/doc 'git')git (logo only)
-- [<img align="left" style="margin-right:10px" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo.png?raw=true" />](https://git-scm.com/doc 'git')git (logo only)
+- [<img align="left" style="margin-right:10px" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo.png?raw=true" />](https://git-scm.com/doc 'git')git (full)
 
 <br />
 <br />

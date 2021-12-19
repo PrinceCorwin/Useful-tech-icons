@@ -26,13 +26,13 @@
 
 ---
 
-## Included Icons (png):
+## Included Icons (23px icon size png):
 
 ### Programming Languages
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="C plus plus" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png 'CSS')C++
+- [<img align="left" style="margin-right:10px" target="_blank" alt="C plus plus" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png 'C++')C++
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="C sharp" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png 'CSS')C#
+- [<img align="left" style="margin-right:10px" target="_blank" alt="C sharp" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png 'C#')C#
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png 'CSS')CSS
 
@@ -40,15 +40,15 @@
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png 'Javascript')JavaScript
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Kotlin" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png 'python')Kotlin
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Kotlin" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png 'Kotlin')Kotlin
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="PHP" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/php.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/php.png 'php')php
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png 'python')Python
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Python" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png 'Python')Python
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Ruby" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/ruby.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/ruby.png 'python')Ruby
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Ruby" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/ruby.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/ruby.png 'Ruby')Ruby
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Swift" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/swift.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/swift.png 'python')Swift
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Swift" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/swift.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/swift.png 'Swift')Swift
 
 ### Libraries / Frameworks
 

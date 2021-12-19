@@ -128,7 +128,6 @@
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Udemy" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/udemy.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/udemy.png 'Udemy')Udemy
 
-  <br />
-  <br />
+---
 
 ## More Added Weekly... Stay Tuned

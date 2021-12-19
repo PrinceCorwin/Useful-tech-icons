@@ -22,13 +22,14 @@
 - [<img align="left" style="margin-right:10px" target="_blank" alt="NodeJS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png 'node.js')node.js
 - [<img align="left" style="margin-right:10px; border-radius: 50%"  target="_blank" alt="Express" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/express.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/express.png 'Express')Express
 - [<img align="left" style="margin-right:10px" target="_blank" alt="MongoDB" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mongodb-leaf.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mongodb-leaf.png 'MongoDB')MongoDB
-- [<img align="left" style="margin-right:10px" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firebase-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firebase-logo.png 'Firebase')Firebase
-- [<img align="left" style="margin-right:10px" target="_blank" alt="SQL" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mysql-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mysql-logo.png 'mySQL')mySQL
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Firebase" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firebase-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firebase-logo.png 'Firebase')Firebase
+- [<img align="left" style="margin-right:10px" target="_blank" alt="mySQL" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mysql-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mysql-logo.png 'mySQL')mySQL
 
 ### Sites / Misc
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo-minimal.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo-minimal.png 'git')git (logo only)
 - [<img align="left" style="margin-right:10px" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo.png 'git')git (full)
+- [<img align="left" style="margin-right:10px" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/GitHub.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/GitHub.png 'git')GitHub
   <br />
   <br />
 

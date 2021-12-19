@@ -47,10 +47,10 @@
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Angular" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/angular.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/angular.png 'Angular')Angular
 - [<img align="left" style="border-radius:50%; margin-right:10px" target="_blank" alt="Bootstrap" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png 'Bootstrap')Bootstrap
 - [<img align="left" style="margin-right:10px; border-radius:50%" target="_blank" alt="Chakra UI" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png 'Chakra UI')Chakra UI
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Material UI" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/material.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/material.png 'Material UI')Material UI
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Material UI" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/material.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/material.png 'Material UI')Material UI
 - [<img align="left" style="margin-right:10px" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png 'React')React
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Sass" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png 'Sass')Sass
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Tailwind" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/tailwind.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/tailwind.png 'Tailwind')Tailwind
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Tailwind" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/tailwind.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/tailwind.png 'Tailwind')Tailwind
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Vue" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png 'Vue')Vue
 
 ### Backend / Database
@@ -63,10 +63,10 @@
 
 ### Software
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Adobe" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/adobe.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/adobe.png 'Adobe')Adobe
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Affinity" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/affinity.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/affinity.png 'Affinity')Affinity
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Davinci Resolve" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/davinci.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/davinci.png 'Davinci Resolve')Davinci Resolve
-- [<img align="left" style="margin-right:10px" target="_blank" alt="Microsoft Office" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/office.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/office.png 'Office')Office
+- [<img align="right" style="margin-right:10px" target="_blank" alt="Adobe" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/adobe.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/adobe.png 'Adobe')Adobe
+- [<img align="right" style="margin-right:10px" target="_blank" alt="Affinity" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/affinity.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/affinity.png 'Affinity')Affinity
+- [<img align="right" style="margin-right:10px" target="_blank" alt="Davinci Resolve" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/davinci.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/davinci.png 'Davinci Resolve')Davinci Resolve
+- [<img align="right" style="margin-right:10px" target="_blank" alt="Microsoft Office" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/office.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/office.png 'Office')Office
 
 ### Browsers
 

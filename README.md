@@ -63,10 +63,10 @@
 
 ### Software
 
-- [<img align="right" style="margin-right:10px" target="_blank" alt="Adobe" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/adobe.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/adobe.png 'Adobe')Adobe
-- [<img align="right" style="margin-right:10px" target="_blank" alt="Affinity" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/affinity.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/affinity.png 'Affinity')Affinity
-- [<img align="right" style="margin-right:10px" target="_blank" alt="Davinci Resolve" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/davinci.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/davinci.png 'Davinci Resolve')Davinci Resolve
-- [<img align="right" style="margin-right:10px" target="_blank" alt="Microsoft Office" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/office.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/office.png 'Office')Office
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Adobe" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/adobe.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/adobe.png 'Adobe')Adobe
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Affinity" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/affinity.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/affinity.png 'Affinity')Affinity
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Davinci Resolve" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/davinci.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/davinci.png 'Davinci Resolve')Davinci Resolve
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Microsoft Office" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/office.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/office.png 'Office')Office
 
 ### Browsers
 

@@ -59,5 +59,7 @@
 - [<img align="left" style="margin-right:10px" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo-minimal.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo-minimal.png 'git')git
 - [<img align="left" style="margin-right:10px" target="_blank" alt="git" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/GitHub.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/GitHub.png 'GitHub')GitHub
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Discord" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Discord.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Discord.png 'Discord')Discord
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Facebook" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/facebook.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/facebook.png 'Discord')Facebook
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Chrome" height="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/chrome.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/chrome.png 'Discord')Chrome
   <br />
   <br />

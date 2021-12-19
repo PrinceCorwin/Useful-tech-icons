@@ -39,6 +39,7 @@
 ### Libraries / Frameworks
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png 'React')React
+- [<img align="left" style="margin-right:10px" target="_blank" alt="Vue" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Vue.png 'Vue')Vue
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Sass" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/sass.png 'Sass')Sass
 - [<img align="left" style="border-radius:50%; margin-right:10px" target="_blank" alt="Bootstrap" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png 'Bootstrap')Bootstrap
 - [<img align="left" style="margin-right:10px; border-radius:50%" target="_blank" alt="Chakra UI" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Chakra.png 'Chakra UI')Chakra UI

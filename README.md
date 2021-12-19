@@ -31,7 +31,7 @@
 ### Programming Languages
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="C plus plus" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Cplusplus.png 'CSS')C++
-- [<img align="left" style="margin-right:10px" target="_blank" alt="C sharp" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csparp.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png 'CSS')C#
+- [<img align="left" style="margin-right:10px" target="_blank" alt="C sharp" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/Csharp.png 'CSS')C#
 - [<img align="left" style="margin-right:10px" target="_blank" alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png 'CSS')CSS
 - [<img align="left" style="margin-right:10px" target="_blank" alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png 'HTML') HTML
 - [<img align="left" style="margin-right:10px" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png 'Javascript')JavaScript

@@ -13,7 +13,7 @@
 
 [<img align="left" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/twitter.png?raw=true" alt="Steve Amalfitano | Twitter"  width="40" />][twitter]
 
-[<img align="left" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkdin.png?raw=true" alt="Steve Amalfitano | LinkedIn"  width="40" />][linkedin]
+[<img align="left" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png?raw=true" alt="Steve Amalfitano | LinkedIn"  width="40" />][linkedin]
 
 [<img align="left" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/ami.png?raw=true" alt="Amalfi Makes It website"  width="40" />][ami]
 <br />
@@ -119,6 +119,8 @@
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Google" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/google.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/google.png 'Google')Google
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Instagram" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/instagram.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/instagram.png 'Instagram')Instagram
+
+- [<img align="left" style="margin-right:10px" target="_blank" alt="LinkedIn" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png 'Instagram')LinkedIn
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Lynda" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/lynda.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/lynda.png 'Lynda')Lynda
 

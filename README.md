@@ -7,15 +7,15 @@
 
 ### 📬 Connect with me:
 
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tribe Of One | Youtube" height="30" width="40" />][youtube]
+[<img align="left" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/youtube.png?raw=true" alt="Tribe Of One | Youtube"  width="40" />][youtube]
 
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Amalfi Makes It | Facebook" height="30" width="40" />][facebook]
+[<img align="left" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/facebook.png?raw=true" alt="Amalfi Makes It | Facebook"  width="40" />][facebook]
 
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Steve Amalfitano | Twitter" height="30" width="40" />][twitter]
+[<img align="left" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/twitter.png?raw=true" alt="Steve Amalfitano | Twitter"  width="40" />][twitter]
 
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Steve Amalfitano | LinkedIn" height="30" width="40" />][linkedin]
+[<img align="left" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkdin.png?raw=true" alt="Steve Amalfitano | LinkedIn"  width="40" />][linkedin]
 
-[<img align="left" src="https://github.com/PrinceCorwin/Amalfitano-portfolio/blob/main/images/ami-icon.png?raw=true" alt="Amalfi Makes It website" height="30" width="40" />][ami]
+[<img align="left" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/ami.png?raw=true" alt="Amalfi Makes It website"  width="40" />][ami]
 <br />
 
 [twitter]: https://twitter.com/stevecorwin9
@@ -131,6 +131,8 @@
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Twitter" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/twitter.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/twitter.png 'Twitter')Twitter
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Udemy" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/udemy.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/udemy.png 'Udemy')Udemy
+
+- [<img align="left" style="margin-right:10px" target="_blank" alt="YouTube" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/youtube.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/youtube.png 'YouTube')Udemy
 
 ---
 

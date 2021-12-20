@@ -120,7 +120,7 @@
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Instagram" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/instagram.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/instagram.png 'Instagram')Instagram
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="LinkedIn" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png 'Instagram')LinkedIn
+- [<img align="left" style="margin-right:10px" target="_blank" alt="LinkedIn" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/linkedin.png 'LinkedIn')LinkedIn
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Lynda" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/lynda.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/lynda.png 'Lynda')Lynda
 
@@ -134,7 +134,7 @@
 
 - [<img align="left" style="margin-right:10px" target="_blank" alt="Udemy" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/udemy.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/udemy.png 'Udemy')Udemy
 
-- [<img align="left" style="margin-right:10px" target="_blank" alt="YouTube" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/youtube.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/youtube.png 'YouTube')Udemy
+- [<img align="left" style="margin-right:10px" target="_blank" alt="YouTube" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/youtube.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/youtube.png 'YouTube')YouTube
 
 ---
 
